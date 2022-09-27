@@ -1,0 +1,9 @@
+cse@cse-OptiPlex-3046:~/nafih$ lex prog2.l
+cse@cse-OptiPlex-3046:~/nafih$ cc lex.yy.c
+cse@cse-OptiPlex-3046:~/nafih$ ./a.out
+34
++ve no
+-34
++ve no
+compiler
+identifier
